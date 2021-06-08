@@ -1,0 +1,19 @@
+.carré{
+    display : grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(2, 150px);
+  }
+  
+  .element {
+    margin: 10px;
+    padding : 20px;
+    background-color : rgb(0, 87, 128); 
+  }
+
+
+
+  /*height 50px
+  width 50px
+  background-color:
+  margin:2px
+  display:inline-block/*
